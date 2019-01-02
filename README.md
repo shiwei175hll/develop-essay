@@ -8,7 +8,7 @@ this is an essay for develop
 ## 目录
 
 - [SpringBoot工程快速创建](/document/SpringBoot工程快速创建.md)
-- [Lombok插件使用]()
+- [Lombok插件使用](/document/Lombok插件使用.md)
 - [Markdown使用与图表绘制]()
 - [JMater进行压力测试]()
 - [docker安装使用]()
