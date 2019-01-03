@@ -35,3 +35,7 @@
 ### 对比
 
 对比以上我们发现Spring Assistant插件其实就是Spring Boot升级版本，之前的Spring Boot插件已经被该插件所替换，Assistant插件不仅仅提供了Boot插件的功能，还提供了Spring Cloud Data Flow的创建。
+
+## 下一篇
+
+[Lombok插件使用](/document/Lombok插件使用.md)

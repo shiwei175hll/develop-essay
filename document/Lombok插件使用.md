@@ -91,3 +91,11 @@ public class UserService{
 在以上示例中，我们可以看出来，对于日志实例log我们并没有进行初始化，在实际的使用过程中我们仅仅添加了一个注解`@Slf4j`，就可以直接通过log来做日志打印。
 
 这个就是该类日志注解的使用方法，示例中我们使用的时logback，实际过程中其他两种也是一样。
+
+## 上一篇
+
+[SpringBoot工程快速创建](/document/SpringBoot工程快速创建.md)
+
+## 下一篇
+
+[Markdown使用与图表绘制]()
