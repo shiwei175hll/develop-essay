@@ -18,6 +18,8 @@ this is an essay for develop
 - [redis详解上]()
 - [redis详解中]()
 - [redis详解下]()
+- [基于redis的分布式锁实现——SETNX]()
+- [基于redis的分布式锁实现——Redlock]()
 
 - **`持续更新中`**
 
