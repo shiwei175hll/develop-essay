@@ -20,6 +20,7 @@ this is an essay for develop
 - [redis详解下]()
 - [基于redis的分布式锁实现——SETNX]()
 - [基于redis的分布式锁实现——Redlock]()
+- [基于客户端负载均衡与服务端负载均衡——Ribbon、Nginx浅析()
 
 - **`持续更新中`**
 
